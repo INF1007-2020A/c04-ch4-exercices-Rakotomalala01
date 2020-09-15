@@ -15,8 +15,7 @@ def remove_third_char(string: str) -> str:
     return string[0:2]+string[3:]
 
 
-def replace_char(string: str, old_char: str, new_char: str) -> str:s%2520C04?groupId=0f3c8839-4918-45bf-b83d-a9b2128eb0c7&tenantId=d2ee49eb-e94b-49d7-a34a-2fb97a949bfc
-
+def replace_char(string: str, old_char: str, new_char: s
 
 def get_number_of_char(string: str, char: str) -> int:
     pass

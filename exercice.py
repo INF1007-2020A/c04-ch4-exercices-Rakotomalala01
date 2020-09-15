@@ -4,6 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     pass
+    
 
 
 def remove_third_char(string: str) -> str:
@@ -43,4 +44,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-5//4
+

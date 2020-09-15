@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-https://teams.microso2998498%40thread.tacv2/Cours%2520C04?groupId=0f
+
 
 
 def is_even_len(string: str) -> bool:
     pass
-    if len(string)%2=
+    if len(string)%2==0
+    p
 def remove_third_char(string: str) -> str:
     pass
 

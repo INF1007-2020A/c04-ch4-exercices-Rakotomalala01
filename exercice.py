@@ -26,7 +26,7 @@ for i in range (len string):
     a=0
     if string[i]==char
     a+=1
-    
+    retirn
 
 
 def get_number_of_words(sentence: str, word: str) -> int:

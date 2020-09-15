@@ -24,7 +24,7 @@ def get_number_of_char(string: str, char: str) -> int:
     pass
 for i in range (len string):
     a=0
-    if 
+    if string i
 
 
 def get_number_of_words(sentence: str, word: str) -> int:

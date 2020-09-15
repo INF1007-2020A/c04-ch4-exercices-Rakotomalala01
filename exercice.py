@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+https://teams.microso2998498%40thread.tacv2/Cours%2520C04?groupId=0f3c8839-4918-45bf-b83d-a9b2128eb0c7&tenantId=d2ee49eb-e94b-49d7-a34a-2fb97a949bfc
+
 
 
 def is_even_len(string: str) -> bool:
     pass
-    if len(string)%2=https://teams.microsoft.com/l/channel/19%3ac99a11edf1344df3be675b2052998498%40thread.tacv2/Cours%2520C04?groupId=0f3c8839-4918-45bf-b83d-a9b2128eb0c7&tenantId=d2ee49eb-e94b-49d7-a34a-2fb97a949bfc
-
-
+    if len(string)%2=
 def remove_third_char(string: str) -> str:
     pass
 

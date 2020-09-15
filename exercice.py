@@ -4,7 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     pass
-    if len[]
+    if len(string)
 
 
 def remove_third_char(string: str) -> str:

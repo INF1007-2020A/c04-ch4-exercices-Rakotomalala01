@@ -20,8 +20,6 @@ def replace_char(string: str, old_char: str, new_char: str):
         if string[i]==old_char
     return string[i]+ new char+ string[i+1]
 
-
-
 def get_number_of_char(string: str, char: str) -> int:
     pass
 

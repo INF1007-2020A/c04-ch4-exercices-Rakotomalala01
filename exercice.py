@@ -32,8 +32,9 @@ for i in range (len string):
 def get_number_of_words(sentence: str, word: str) -> int:
     pass
     nbr word =0
-for i in range (len sentence)
-def main() -> None:
+for i in range (len sentence):
+    
+def main()-> None:
     chaine = "Bonjour!"
     if is_even_len(chaine):
         print(f"Le nombre de caractère dans la chaine {chaine} est pair")

@@ -32,7 +32,7 @@ for i in range (len string):
 def get_number_of_words(sentence: str, word: str) -> int:
     pass
     nbr word =0
-for i in range (len )
+for i in range (len sentence)
 
 
 def main() -> None:

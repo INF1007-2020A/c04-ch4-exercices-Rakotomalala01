@@ -31,7 +31,7 @@ for i in range (len string):
 
 def get_number_of_words(sentence: str, word: str) -> int:
     pass
-    words=
+    words=sen
     for current word in sentence:
 
 

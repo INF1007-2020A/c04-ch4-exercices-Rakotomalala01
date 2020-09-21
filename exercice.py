@@ -33,7 +33,8 @@ def get_number_of_words(sentence: str, word: str) -> int:
     pass
     words=sentence.split()
     count= 0
-    for current word in sentence:
+    for current word in words:
+        if current words =
 
 
 def main()-> None:

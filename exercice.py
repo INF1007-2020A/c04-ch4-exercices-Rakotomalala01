@@ -51,6 +51,7 @@ def main() -> None:
     chaine = "Baby shark doo doo doo doo doo doo"
     print(f"L'occurence du mot doo dans la chaine {chaine} est: {get_number_of_words(chaine, 'doo')}")
 
+!
 
 if __name__ == '__main__':
     main()
